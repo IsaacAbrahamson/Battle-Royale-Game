@@ -6,19 +6,17 @@ This game was created by myself and two other students for CpS 209 Application D
 
 During this project, we learned how to do Object-Oriented Programming, Test-Driven Development, and use Xamarin to build a complete GUI application.
 
+Watch the below video demo or build it yourself using Visual Studio and Xamarin.
+
+[![image](https://user-images.githubusercontent.com/17521691/183308869-6e66b975-2ca5-4420-b74a-e367a9958698.png)
+](https://youtu.be/fE3VTC6Sn28)
+
 ## Overview
 
 ![logo](https://i.postimg.cc/NMzKBY5W/logo.png)
 ![description](https://i.postimg.cc/zf3LMVfn/mission.png)
 ![map](https://i.postimg.cc/Y2FFMGzR/starter-Copy.png)
 ![characters](https://img.craftpix.net/2017/08/2d-game-special-forces-character-sprites-sheets-720x480.jpg)
-
-
-### Intro Video:
-<a href="https://dl.dropboxusercontent.com/s/7y2aytmsrd6expd/intro.mp4" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjbnFBQ1gUQB0QDckKeSn8usHF1DHWXuFcH1xH6lLC8ZjOhGc4" alt="video"/></a>
-
-### Gameplay Video (Release):
-<a href="https://dl.dropbox.com/s/khaa2qcnokhfupy/209%20overview.mp4?dl=0" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjbnFBQ1gUQB0QDckKeSn8usHF1DHWXuFcH1xH6lLC8ZjOhGc4" alt="video"/></a>
 
 ## Instructions
 * Use 'A' to move left, 'D' to move right, and spacebar to jump. 
