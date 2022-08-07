@@ -1,3 +1,9 @@
+# About
+
+This game was created by myself and two other students for CpS 209 Application Development.
+
+During this project, we learned how to do Object-Oriented Programming, Test-Driven Development, and use Xamarin to build a complete GUI application.
+
 ![logo](https://i.postimg.cc/NMzKBY5W/logo.png)
 ![description](https://i.postimg.cc/zf3LMVfn/mission.png)
 ![map](https://i.postimg.cc/Y2FFMGzR/starter-Copy.png)
