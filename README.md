@@ -4,6 +4,8 @@
 
 This game was created by myself and two other students for CpS 209 Application Development.
 
+It was built using Xamarin and UrhoSharp libraries.
+
 During this project, we learned how to do Object-Oriented Programming, Test-Driven Development, and use Xamarin to build a complete GUI application.
 
 Watch the below video demo or build it yourself using Visual Studio and Xamarin.
